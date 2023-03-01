@@ -40,8 +40,19 @@
         "id": "4",
         "name": "Planejamento"
       },
-      "cost": 0,
-      "services": [],
+      "cost": null,
+      "services": [
+        {
+          "cost": "1515515115",
+          "description": "fazuely",
+          "id": "d59a29af-f69b-48b4-a297-e9c1dda96e4d"
+        },
+        {
+          "cost": "1515515115",
+          "description": "fazuely",
+          "id": "d59a29af-f69b-48b4-a297-e9c1dda96e4d"
+        }
+      ],
       "id": 5
     }
   ],
