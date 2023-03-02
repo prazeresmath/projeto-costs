@@ -1,7 +1,8 @@
 function Company() {
     return (
         <div>
-            <h1>Company</h1>
+            <h1>Empresa</h1>
+            <p>Empresa ficticia para treinar o react.</p>
         </div>
     )
 }
