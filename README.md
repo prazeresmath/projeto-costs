@@ -1,2 +1,5 @@
 # projeto-costs
-projeto teste em react
+projeto em react
+
+para rodar o json-server tem que rodar "npm run backend"
+
